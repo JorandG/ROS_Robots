@@ -36,6 +36,7 @@ The WidowX Robot Arm Mark II is developped by Interbotix Labs' offering for the 
 # License
 
 For the section on the Widowx arm, this repository is an adaption on ROS Noetic of Interbotix's [Widowx repository](https://github.com/Interbotix/widowx_arm). Copyright for these are held by others, as reflected in the commit history for the original files.
+The arobotix_ros is modified version of the [arobotix_ros](https://github.com/Interbotix/arbotix_ros) repository.
 
 
 
