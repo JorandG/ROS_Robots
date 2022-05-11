@@ -13,8 +13,11 @@ The embeded sensors will be:
 
 # Recommended OS/Programs
 The pacakge was developped and tested on:
+
 • Ubuntu 20.04 LTS
+
 • ROS Noetic
+
 • MoveIt! for ROS Noetic
 
 # Turtlebot
