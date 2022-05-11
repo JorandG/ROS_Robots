@@ -34,6 +34,8 @@ The WidowX Robot Arm Mark II is developped by Interbotix Labs' offering for the 
 To launch moveit and start planning the robot use the command
 
 ``` roslaunch widowx_arm_bringup arm_moveit.launch```
+
+Check if the port used for the robot is ttyUSB0 in case of problems. 
   
  # Installation
  
