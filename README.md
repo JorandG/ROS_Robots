@@ -31,7 +31,7 @@ The WidowX Robot Arm Mark II is developped by Interbotix Labs' offering for the 
   
  # Installation
  
- To install the current version of the repository to your machine, change directory into the desired catkin workspace source directory, and clone the repository. After this, build the code using catkin_make in the workspace directory.
+ To install the current version of the repository to your machine, change directory into the desired catkin workspace source directory, and clone the repository. After this, build the code using  (``` catkin_make```) in the workspace directory. 
 
 # License
 
