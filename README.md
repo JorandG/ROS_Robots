@@ -1,15 +1,11 @@
 # ROS_Robots
 This repo aims to create a package to control a TurtleBot 2e and the Widowx MKII with differents sensors on ROS Noetic.
-The embeded sensors will be:
-
-• The ada camera 
-• A Lidar
-• An OptiTrack
 
 # Table of Contents
 
 - [Turtlebot](#turtlebot)
 - [Widowx](#widowx)
+- [Installation](#installation)
 
 # Recommended OS/Programs
 The pacakge was developped and tested on:
@@ -35,8 +31,9 @@ The WidowX Robot Arm Mark II is developped by Interbotix Labs' offering for the 
   
   <img width="677" alt="Widowx" src="https://www.trossenrobotics.com/images/PImages/widowx-a.jpg">
   
- ## Installation
-  
+ # Installation
+ 
+ To install the current version of the repository to your machine, change directory into the desired catkin workspace source directory, and clone the repository. After this, build the code using catkin_make in the workspace directory.
 
 
 
