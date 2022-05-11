@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<launch>
+
+<include file="$(find widowx_arm_bringup)/launch/arm_moveit.launch">
+	<arg name="sim" value="false" />
+	<arg name="sr300" value="false" />
+</include>
+
+</launch>
+
