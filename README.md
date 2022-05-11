@@ -27,8 +27,6 @@ The robot used for this package is the TurtleBot2 which is an open hardware robo
 
 The WidowX Robot Arm Mark II is developped by Interbotix Labs' offering for the MX series of DYNAMIXEL Servos:
   
-  [Widowx repo](https://github.com/Interbotix/widowx_arm)
-  
   <img width="677" alt="Widowx" src="https://www.trossenrobotics.com/images/PImages/widowx-a.jpg">
   
  # Installation
@@ -37,7 +35,7 @@ The WidowX Robot Arm Mark II is developped by Interbotix Labs' offering for the 
 
 # License
 
-For the section on the Widowx arm, this repository is an adaption on ROS Noetic of Interbotix's widowx_arm repository. Copyright for these are held by others, as reflected in the commit history for the original files.
+For the section on the Widowx arm, this repository is an adaption on ROS Noetic of Interbotix's [Widowx repository](https://github.com/Interbotix/widowx_arm). Copyright for these are held by others, as reflected in the commit history for the original files.
 
 
 
