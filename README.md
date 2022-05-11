@@ -35,7 +35,9 @@ The WidowX Robot Arm Mark II is developped by Interbotix Labs' offering for the 
  
  To install the current version of the repository to your machine, change directory into the desired catkin workspace source directory, and clone the repository. After this, build the code using catkin_make in the workspace directory.
 
+# License
 
+For the section on the Widowx arm, this repository is an adaption on ROS Noetic of Interbotix's widowx_arm repository. Copyright for these are held by others, as reflected in the commit history for the original files.
 
 
 
